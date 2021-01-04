@@ -1,3 +1,8 @@
+# Author : Hailong.lu
+# Date   : 2020/1/4
+# Version: 0.1
+
+
 class HelloWorld:
     def say(name):
         print("Hello World ", name, "!")
