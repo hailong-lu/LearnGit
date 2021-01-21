@@ -1,9 +1,11 @@
 c:\>c:\Python35\python -m venv c:\path\to\myenv
 
+|a|b|
+|---|---|
 
-SIX
+|SIX
 
-bash/zsh
+|bash/zsh
 
 $ source <venv>/bin/activate
 
