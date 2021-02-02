@@ -19,5 +19,5 @@ class My(HelloWorld):
 if __name__ == "__main__":
     hw = My()
     hw.say("Hailong")
-    hw.say("Hailong")
-    hw.say("Hailong")
+    hw.say("Hailong1")
+    hw.say("Hailong2")
