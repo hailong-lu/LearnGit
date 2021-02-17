@@ -9,6 +9,7 @@
 4. rebase
 5.github
 6.gitlab
+7. Gitee
 
 
 5. git 管理SVN
