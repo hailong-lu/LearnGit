@@ -4,6 +4,8 @@
 2. git commit
 3. git push
 4. git pull
+5. git fetch
+6. git merge
 
 
 
