@@ -1,6 +1,9 @@
 # LearnGit
 
 1. git的工作区、暂存区、仓库
+2. git commit
+3. git push
+4. git pull
 
 
 
